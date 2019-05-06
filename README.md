@@ -1,4 +1,6 @@
-使用SSD300训练自己的数据，将皮影任务的四肢，头部，身体主干检测出来。原始代码链接 https://github.com/amdegroot/ssd.pytorch
+使用SSD300训练自己的数据，将皮影任务的四肢，头部，身体主干检测出来
+
+原始代码链接 https://github.com/amdegroot/ssd.pytorch
 
 [数据集](https://pan.baidu.com/s/1zdsS-kLihn6PTZOxAaSNCQ)
 
