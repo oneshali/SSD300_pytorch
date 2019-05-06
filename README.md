@@ -1,10 +1,22 @@
-使用SSD300训练自己的数据，原始代码链接 https://github.com/amdegroot/ssd.pytorch
+使用SSD300训练自己的数据，将皮影任务的四肢，头部，身体主干检测出来。原始代码链接 https://github.com/amdegroot/ssd.pytorch
 
 [数据集](https://pan.baidu.com/s/1zdsS-kLihn6PTZOxAaSNCQ)
 
 [训练好的SSD模型](https://pan.baidu.com/s/1u-A0sHv42g0lj__PG2MbIw) 提取码：qaxd
 
 [vgg16预训练模型](https://pan.baidu.com/s/1uz-QjQzoiPuQUyLwxCMe1g) 提取码：irms 
+
+训练损失
+
+![在这里插入图片描述](https://github.com/KevinZhaoZL/SSD300_Pytorch/blob/master/eval/3751d523978c1e.svg)
+
+测试结果
+
+![在这里插入图片描述](https://github.com/KevinZhaoZL/SSD300_Pytorch/blob/master/demo/myplot.png)
+
+![在这里插入图片描述](https://github.com/KevinZhaoZL/SSD300_Pytorch/blob/master/demo/myplot1.png)
+
+![在这里插入图片描述](https://github.com/KevinZhaoZL/SSD300_Pytorch/blob/master/demo/myplot2.png)
 
 ******
 # SSD: Single Shot MultiBox Object Detector, in PyTorch
